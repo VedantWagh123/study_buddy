@@ -1,0 +1,11 @@
+{
+  "name": "aidoubtsolver",
+  "version": "1.0.0",
+  "description": "Welcome to the **AI Doubt Solver & Study Helper**, an advanced, fully functional Streamlit application designed to revolutionize the way students and professionals interact with their documents. Powered by **Google Gemini AI** and robust local fallback mechanisms, this application serves as your personal tutor, exam predictor, and intelligent document analyzer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
